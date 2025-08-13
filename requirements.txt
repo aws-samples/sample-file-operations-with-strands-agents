@@ -1,0 +1,9 @@
+# Core Streamlit Application
+streamlit>=1.45.0
+
+# Strands AI Agent Framework
+strands-agents>=1.0.0
+strands-agents-tools>=0.2.0
+
+# File Organization Tool Dependencies
+# Custom module: file_organizer (included in project)
